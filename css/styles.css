@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+hr {
+  border-color: grey;;
+  border-style: dotted none none none;
+  border-width: 8px;
+  width: 4%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 4.75em;
+  font-weight: 100;
+  color: #C36A2D;
+  line-height: 2;
+}
+h2 {
+   color: #C36A2D;
+   font-weight: normal;
+   font-size: 3rem;
+}
+h3 {
+  color: #C36A2D;
+  font-size: 1.5rem;
+}
+a {
+  color: #D8B6A4;
+}
+
+p {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: 'Alegreya Sans', sans-serif;
+  color: #40514E;
+  font-size: 20px;
+
+}
+
+#p-top-spacing {
+  letter-spacing: 3.8px;
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+
+.top {
+  background-color: #FEFBF3;
+  position: relative;
+  padding-top: 100px
+}
+
+.bottom-container {
+  margin: 100px auto 0px auto;
+  background-color: #C36A2D;
+  line-height: 3;
+
+}
+
+.footer-link {
+  margin: auto 25px auto 25px;
+  color: white;
+}
+#p-footer {
+  margin: auto auto 0px auto;
+  color: white;
+}
+
+.middle-container {
+
+}
+
+.contact-me {
+  line-height: 2;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 100px;
+}
+.skill-row {
+  width: 50%;
+  margin: 150px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+
+.img-computer {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img-webd{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.welcome {
+  width: 12%;
+  margin: 150px auto 20px auto;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #fcfcfc;
+  font-size: 20px;
+  background: #C36A2D;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #D8B6A4;
+  text-decoration: none;
+}
